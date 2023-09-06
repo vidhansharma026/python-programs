@@ -1,0 +1,2 @@
+this file is file1 and mode is w
+See you soon!Over and out.

@@ -1,0 +1,2 @@
+this file is file6 and mode is a
+ this file is file6 and mode is +a 

@@ -1,0 +1,1 @@
+this file no is 5 and mode is w+
